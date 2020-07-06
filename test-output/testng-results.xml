@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19707" started-at="2020-07-02T13:27:45Z" finished-at="2020-07-02T13:28:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19707" started-at="2020-07-02T13:27:45Z" finished-at="2020-07-02T13:28:05Z">
+      <class name="scripts.Webtables">
+        <test-method status="PASS" signature="tc_01()[pri:0, instance:scripts.Webtables@ae45eb6]" name="tc_01" duration-ms="19672" started-at="2020-07-02T13:27:45Z" finished-at="2020-07-02T13:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+      </class> <!-- scripts.Webtables -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
